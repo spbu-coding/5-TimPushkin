@@ -3,6 +3,7 @@
 void other() {
     printf("Secret code reached!\n");
     fflush(stdout);
+    exit(0);
 }
 
 void input() {
